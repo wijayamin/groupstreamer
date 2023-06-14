@@ -1,0 +1,3 @@
+[submodule "cameractrls"]
+	path = cameractrls
+	url = https://github.com/soyersoyer/cameractrls.git
